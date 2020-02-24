@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		441BD8FE240021140004AAE9 /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BD8FD240021140004AAE9 /* Chart.swift */; };
 		441BD98823FAD2E20022141D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BD98723FAD2E20022141D /* AppDelegate.swift */; };
 		441BD98A23FAD2E20022141D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BD98923FAD2E20022141D /* ViewController.swift */; };
 		441BD98D23FAD2E20022141D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 441BD98B23FAD2E20022141D /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		441BD8FD240021140004AAE9 /* Chart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chart.swift; sourceTree = "<group>"; };
 		441BD98423FAD2E20022141D /* BezierChart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BezierChart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		441BD98723FAD2E20022141D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		441BD98923FAD2E20022141D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				441BD98E23FAD2E40022141D /* Assets.xcassets */,
 				441BD99023FAD2E40022141D /* LaunchScreen.storyboard */,
 				441BD99323FAD2E40022141D /* Info.plist */,
+				441BD8FD240021140004AAE9 /* Chart.swift */,
 			);
 			path = BezierChart;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				441BD98A23FAD2E20022141D /* ViewController.swift in Sources */,
 				441BD98823FAD2E20022141D /* AppDelegate.swift in Sources */,
+				441BD8FE240021140004AAE9 /* Chart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
